@@ -9,6 +9,4 @@ This is a simple and customizable dashboard component built using ReactJS. It pr
 - Chart integration for visual representation of data.
 
 ## Working
-
-![ezgif com-video-to-gif-converter](https://github.com/hp-8/Simple-Dashboard/assets/106737575/afb1ec97-f7cf-4b69-8dd3-bbdbfb511a16)
-
+![ezgif com-video-to-gif-converter-2](https://github.com/hp-8/Simple-Dashboard/assets/106737575/1769398f-fbc3-40bf-b58f-b7639c2da4d6)
